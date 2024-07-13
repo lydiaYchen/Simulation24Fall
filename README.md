@@ -27,6 +27,8 @@ Lydia is the responsible instructors of this course and can jointly be reached a
 
 ##  6. <a name='dart:Gradingpolicy'></a>:dart: Grading policy
 
+There are 6 mandatory labs. The grades of labs will be considered as a bonus to the final grade which is based on a written exam.
+
 ##  7. <a name='Detailedschedule'></a>Detailed schedule
 
 
@@ -41,7 +43,7 @@ Week 6 (Oct 28) | Event Driven Simulation |Lydia | ch 14
 Week 7 (Nov 4) | Lab on discrete simulation | Abel|
 Week 8 (Nov 11) | The Poisson Process  | Lydia | ch 12
 Week 9 (Nov 18) | Lab on queue simulation | Abel  | 
-Week 10 (Nov 25) | Finite state Queueing Systems| Lydia |
+Week 10 (Nov 25) | Finite state Queueing Systems| Lydia | ch 27
 Week 11 (Dec 2) | Lab on queueing systems | Abel |
 Week 12 (Dec 9) | Scheduling | Lydia
 Week 13 (Dec 16) | Lab on scheduling policies | Abel
