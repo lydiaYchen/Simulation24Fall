@@ -47,4 +47,4 @@ Week 10 (Nov 21) | Finite state Queueing Systems| Lydia | ch 27
 Week 11 (Nov 28) | Lab on queueing systems | Abel |
 Week 12 (Dec 5) | Scheduling | Lydia
 Week 13 (Dec 12) | Lab on scheduling policies | Abel
-Week 14 (Dec 12) | Course Review | Lydia
+Week 14 (Dec 19) | Course Review | Lydia
