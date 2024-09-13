@@ -25,6 +25,11 @@ Lydia is the responsible instructors of this course and can jointly be reached a
 
 ##  5. <a name='Learningobjectives'></a>Learning objectives
 
+- Understand and derive the expectations and variances of discrete and continuous variables
+- Understand and implement the random number generators
+- Design and implement an event driven simulation
+- Collect and analyze the relevant performance metrics
+- Applying simulation to design a better queueing systems
 
 ##  6. <a name='dart:Gradingpolicy'></a>:dart: Grading policy
 
@@ -41,7 +46,7 @@ This accounts for 25 % of the final grade.
 ### Final exam
 The exact date (late January and early October) and place will be announced later. 
 
-This account for 85 % of the final grade 
+This account for 85 % of the final grade.
 
 
 ##  7. <a name='Detailedschedule'></a>Detailed schedule
