@@ -55,9 +55,9 @@ This account for 85 % of the final grade.
 **Week**|**Lecture Topic**|**Instructor**|**Additional note**
 :-----|:-----|:-----|:-----
 Week 1 (Sep 19) | Introduction and Common Discrete Random Variables | Lydia | ch 3
-Week 2 (Sep 26) | Expectation, Variance and Higher Moment| Lydia| ch 4
+Week 2 (Sep 26) | Expectation, Variance and Higher Moment| Lydia| ch 4/5
 Week 3 (Oct 3) | Lab on derivation| Abel | 
-Week 4 (Oct 10) | Continuous variables   | Lydia | Ch 5
+Week 4 (Oct 10) | Continuous variables   | Lydia | Ch 7
 Week 5 (Oct 17) | Python for simulation | Abel |
 Week 6 (Oct 24) | Random number generator  |Lydia | ch 13
 Week 7 (Oct 31) | Lab on random number generation | Abel|
