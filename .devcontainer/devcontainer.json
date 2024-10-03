@@ -12,7 +12,16 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "pip3 install --user -r lab/requirements.txt"
+	"postCreateCommand": "pip3 install --user -r lab/requirements.txt",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-python.python",
+				"ms-toolsai.jupyter",
+				"ms-python.autopep8"
+			]
+		}
+	}
 
 	// Configure tool-specific properties.
 	// "customizations": {},
