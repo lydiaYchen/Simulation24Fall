@@ -64,7 +64,7 @@ Week 7 (Oct 31) | Lab on random number generation | Abel|
 Week 8 (Nov 7) | Event Driven Simulation   | Lydia | ch 14
 Week 9 (Nov 14) | Lab on event driven Simulation  | Abel  | 
 Week 10 (Nov 21) | The Poisson Process | Lydia | ch 12
-Week 11 (Nov 28) | Lab on queueing systems | Abel |
-Week 12 (Dec 5) | Finite state Queueing SystemsScheduling | Lydia | ch 27
+Week 11 (Nov 28) | Finite state Queueing Systems Scheduling | Lydia  | ch 27|
+Week 12 (Dec 5) | Lab on queueing systems | Abel
 Week 13 (Dec 12) | Lab with project | Abel
 Week 14 (Dec 19) | Course review/ presentation | Lydia
